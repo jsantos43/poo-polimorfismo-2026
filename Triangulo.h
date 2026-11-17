@@ -5,7 +5,6 @@
 
 class Triangulo : public Figura{
 public:
-    Triangulo();
     Triangulo(int x = 0, int y =0);
 
     void Desenha() const;

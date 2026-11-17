@@ -5,7 +5,6 @@
 
 class Retangulo : public Figura{
 public:
-    Retangulo();
     Retangulo(int x = 0, int y =0);
 
     void Desenha() const;

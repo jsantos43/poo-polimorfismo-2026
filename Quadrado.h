@@ -5,7 +5,6 @@
 
 class Quadrado : public Figura{
 public:
-    Quadrado();
     Quadrado(int x = 0, int y =0);
 
     void Desenha() const;
